@@ -1999,6 +1999,10 @@
     {
       "numberGuest": "500",
       "status": "test"
+    },
+    {
+      "numberGuest": 123,
+      "status": "True"
     }
   ]
 }
