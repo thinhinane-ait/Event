@@ -394,7 +394,7 @@
     },
     {
       "numberGuest": "99",
-      "status": "test"
+      "status": "True"
     },
     {
       "numberGuest": "100",
