@@ -166,7 +166,7 @@
     },
     {
       "numberGuest": "42",
-      "status": "test"
+      "status": "True"
     },
     {
       "numberGuest": "43",
